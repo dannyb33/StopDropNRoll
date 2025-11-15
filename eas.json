@@ -39,6 +39,12 @@
       "ios": {
         "image": "latest"
       }
+    },
+    "apk": {
+      "android": {
+        "buildType": "apk",
+        "image": "latest"
+      }
     }
   },
   "submit": {
